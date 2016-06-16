@@ -12,3 +12,5 @@ Run `grunt` for building and `grunt serve` for preview.
 Running `grunt test` will run the unit tests with karma.
 # FE
 <!-- # sublime line to github test -->
+
+# 添加轮播图
