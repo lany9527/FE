@@ -11,9 +11,6 @@ angular.module('feApp')
     return {
       templateUrl: 'views/common/console.html',
       restrict: 'EA',
-      replace: true
-      /*link: function postLink(scope, element, attrs) {
-        element.text('this is the consoleComponent directive');
-      }*/
+      //replace: true
     };
   });
