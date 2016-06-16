@@ -10,7 +10,7 @@ angular.module('feApp')
   .directive('consoleComponent', function () {
     return {
       templateUrl: 'views/common/console.html',
-      restrict: 'EA',
+      restrict: 'EA'
       //replace: true
     };
   });
